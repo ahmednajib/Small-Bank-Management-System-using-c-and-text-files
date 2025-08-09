@@ -1,0 +1,5 @@
+﻿  Project_Bank#1_Mine.cpp
+C:\Users\AHMED\Desktop\Programming-Advices\Level 7\Project_Bank#1\Project_Bank#1_Mine.cpp(30,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\AHMED\Desktop\Programming-Advices\Level 7\Project_Bank#1\Project_Bank#1_Mine.cpp(339,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+C:\Users\AHMED\Desktop\Programming-Advices\Level 7\Project_Bank#1\Project_Bank#1_Mine.cpp(403,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+  Project_Bank#1_Mine.vcxproj -> C:\Users\AHMED\Desktop\Programming-Advices\Level 7\Project_Bank#1\x64\Debug\Project_Bank#1_Mine.exe
